@@ -1,0 +1,27 @@
+.mytitle {
+
+
+    color: white;
+    text-align: center;
+    background-image: url('https://i0.wp.com/jinzzabegi.com/wp-content/uploads/2015/06/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7-2015-06-04-09.08.58.png?fit=1184%2C673');
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.mytitle > h1{
+    margin: 0;
+}
